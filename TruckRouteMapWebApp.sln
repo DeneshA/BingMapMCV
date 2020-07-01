@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruckRouteMapWebApp", "TruckRouteMapWebApp\TruckRouteMapWebApp.csproj", "{37D950B9-7ECC-4B4F-B706-415B8986F227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37D950B9-7ECC-4B4F-B706-415B8986F227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D950B9-7ECC-4B4F-B706-415B8986F227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D950B9-7ECC-4B4F-B706-415B8986F227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D950B9-7ECC-4B4F-B706-415B8986F227}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C0F5C82-64EE-4164-A00B-31E2B6B26757}
+	EndGlobalSection
+EndGlobal
